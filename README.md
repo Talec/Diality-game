@@ -1,5 +1,4 @@
 # Diality-game
-Diality from global Game jam, my latest version.
 Contributors
 Name                       (discord Name)
 Tanner Eckmann             (Talec)
